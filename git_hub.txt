@@ -1,1 +1,2 @@
 hello github platform users, I hope this message finds you well, please do you know the difference between git and github? Indeed you are not. Usually, git is a version control system while github is a platform for collaboration especially for sofware engineering and other projects that require coding skills .
+Under normal circumstances, we can not judge people because they do not have enough knowledge, instead we have to teach them and thier company because either you believe or not we are the average of people who surround us,
